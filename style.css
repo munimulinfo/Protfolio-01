@@ -1,0 +1,94 @@
+body {
+	margin: 2%;
+}
+h1 {
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+.color-purple {
+	color: purple;
+}
+.border-left {
+	border-left: 3px solid #4CAF50;
+}
+.link-button {
+	text-decoration: none;
+	padding: 10px 30px;
+	Background-color: tomato;
+	border-radius: 5%;
+}
+.inline-block {
+	display: block;
+}
+section {
+	display: flex;
+	padding-top: 25px;
+	padding-bottom: 100px;
+}
+.width-half {
+	width: 70%;
+}
+.width-half img {
+	width: 6 0%;
+	height: 430px;
+}
+.text-center {
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+.div2 {
+	width: 30%;
+	box-shadow: 10px 10px 30px gray;
+	padding: 20px;
+	margin-left: 3%;
+	margin-right: 3%;
+	border-radius: 11px;
+}
+.div2 img {
+	width: 32%;
+}
+.div3 {
+	width: 50%;
+	padding: 15;
+	margin-left: 5%;
+}
+.div3 img {
+	width: 70%;
+}
+.div4 {
+	width: 50%;
+}
+.div4 img {
+	width: 80%;
+	height: 450px;
+}
+.div5 {
+	background-color: floralwhite;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+nav {
+	width: 100%;
+	height: 10px;
+	float: right;
+}
+nav ul {
+	display: flex;
+	list-style: none;
+	background: purple;
+}
+nav ul li {
+	display: flex;
+	margin: 20px;
+	float: right;
+}
+nav ul li a {
+	text-decoration: none;
+	color: #fff;
+}
+.cros:hover {
+	paddin: 6px;
+	color: yellow;
+	background-color: black;
+}

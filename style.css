@@ -76,7 +76,7 @@ nav {
 nav ul {
 	display: flex;
 	list-style: none;
-	background: purple;
+	background:blueviolet;
 }
 nav ul li {
 	display: flex;
